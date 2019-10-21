@@ -1,0 +1,5 @@
+$(function(){
+    $('.inp').phoneMask();
+});
+
+

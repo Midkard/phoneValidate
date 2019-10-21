@@ -1,0 +1,19 @@
+{
+  "name": "@midkard/phoneValidate",
+  "version": "1.0.0",
+  "description": "Ftont-end form validation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "author": "Midkard",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-rename": "^1.4.0",
+    "uglify-es": "^3.3.9"
+  }
+}

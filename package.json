@@ -1,6 +1,6 @@
 {
-  "name": "@midkard/phoneValidate",
-  "version": "1.0.0",
+  "name": "@midkard/phone-validate",
+  "version": "1.0.1",
   "description": "Ftont-end form validation",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -8,6 +8,7 @@
   },
   "author": "Midkard",
   "license": "ISC",
+  "main": "./src/phone.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^4.0.2",
